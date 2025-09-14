@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Python version
-export PYTHON_VERSION=3.9.18
+export PYTHON_VERSION=3.12.10
 
 # Install pyenv if not installed
 if ! command -v pyenv &> /dev/null; then
